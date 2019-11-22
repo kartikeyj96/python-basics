@@ -1,0 +1,4 @@
+#!/root/PycharmProjects/myfirstprojects/venv/bin/python
+# EASY-INSTALL-SCRIPT: 'odfpy==1.4.0','odfoutline'
+__requires__ = 'odfpy==1.4.0'
+__import__('pkg_resources').run_script('odfpy==1.4.0', 'odfoutline')
